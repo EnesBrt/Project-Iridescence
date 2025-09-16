@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=project_iridescence
+POSTGRES_USER=wAvivzcCszynbJSGcVeHAorbKnwipXzc
+POSTGRES_PASSWORD=W2CJiuGUT1t60DalHyovW7qWV0z4DA5Q1dqKCiBxapBjb33Y0byIFNXCB5hlo04v
